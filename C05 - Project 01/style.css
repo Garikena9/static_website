@@ -1,0 +1,43 @@
+th {
+    border: 1px solid black;
+    min-height:50px; 
+    min-width: 50px;
+    text-align: center;
+    }
+
+table{
+    font-size: 2em;
+    width: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+button{
+    font-size: larger;
+    background-color: rgb(86, 149, 231);
+    border-color:blue;
+    border-radius: 05px;
+    min-height:50px; 
+    min-width: 120px;
+    text-align: center;
+    margin: 50px;
+}
+
+#orange{
+    font-size: larger;
+    background-color: rgb(246, 223, 179);
+    border-color:orange;
+    border-radius: 05px;
+    min-height:50px; 
+    min-width: 120px;
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+    border: 1px solid black;
+}
+
+body{
+    margin: 10px;
+}
